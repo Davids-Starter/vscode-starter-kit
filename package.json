@@ -1,0 +1,33 @@
+{
+    "name": "David's VSCode Starter Kit",
+    "displayName": "VSCode Starter Kit",
+    "description": "Contains extensions recommended to get set up and going at a Hackathon, or to just get VS Code up and running",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "coenraads.Bracket-Pair-Colorizer-2",
+        "aaron-bond.better-comments",
+        "thewolfs.cppcolorizationupgrade",
+        "shengchen.vscode-checkstyle",
+        "mhutchie.git-graph",
+        "vscjava.vscode-java-pack",
+        "madhavd1.javadoc-tools",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "ibm.output-colorizer",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "shan.code-settings-sync",
+        "wayou.vscode-todo-highlight",
+        "tzachovadia.todo-list",
+        "visualstudioexptteam.vscodeintellicode",
+        "redhat.vscode-xml",
+        "dotjoshjohnson.xml",
+        "tombonnike.vscode-status-bar-format-toggle",
+    ]
+}
