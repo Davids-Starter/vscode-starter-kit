@@ -26,5 +26,10 @@
         "redhat.vscode-xml",
         "dotjoshjohnson.xml",
         "tombonnike.vscode-status-bar-format-toggle",
+        "PKief.material-icon-theme",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "Snowcoders.sortier-vscode",
+        "eamodio.gitlens"
     ]
 }
