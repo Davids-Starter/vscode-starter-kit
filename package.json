@@ -1,6 +1,7 @@
 {
-    "name": "David's VSCode Starter Kit",
-    "displayName": "VSCode Starter Kit",
+    "publisher": "DavidBeta",
+    "name": "vscode-starter-kit",
+    "displayName": "David's VSCode Starter Kit",
     "description": "Contains extensions recommended to get set up and going at a Hackathon, or to just get VS Code up and running",
     "version": "0.0.1",
     "engines": {
