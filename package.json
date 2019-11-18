@@ -9,19 +9,24 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "aaron-bond.better-comments",
+    "extensionPack": [
         "christian-kohler.path-intellisense",
         "coenraads.Bracket-Pair-Colorizer-2",
         "eamodio.gitlens",
+        "exodiusstudios.comment-anchors",
         "ibm.output-colorizer",
         "mhutchie.git-graph",
+        "oderwat.indent-rainbow",
         "PKief.material-icon-theme",
+        "rafamel.subtle-brackets",
         "ritwickdey.liveserver",
         "shan.code-settings-sync",
         "tombonnike.vscode-status-bar-format-toggle",
-        "tzachovadia.todo-list",
+        "tyriar.sort-lines",
         "visualstudioexptteam.vscodeintellicode",
-        "wayou.vscode-todo-highlight"
+        "yzhang.markdown-all-in-one",
+        "royaction.color-manager",
+        "codezombiech.gitignore",
+        "github.vscode-pull-request-github"
     ]
 }
