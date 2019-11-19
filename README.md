@@ -73,7 +73,6 @@ Hello World! This extension pack is a good start for those just beginning with V
   - Sorts lines as it says in a variety of ways.
 - Subtle Brackets
   - Underlines matching brackets and parentheses in the editor
-
 ---
 
 ## Other Recommendations:
@@ -129,31 +128,3 @@ Since my pack doesn't include languages since everyone has their own tech stack,
 - JavaScript Booster
   
   - Makes refactoring javascript a little bit faster
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
