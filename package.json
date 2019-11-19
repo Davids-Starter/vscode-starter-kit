@@ -3,7 +3,7 @@
     "publisher": "DavidBeta",
     "name": "starterkit",
     "icon": "binders.png",
-    "displayName": "VSCode Starter Kit",
+    "displayName": "David's Starter Kit",
     "description": "Contains extensions recommended to get set up and going at a Hackathon, or to just get VS Code up and running",
     "version": "0.0.1",
     "engines": {
