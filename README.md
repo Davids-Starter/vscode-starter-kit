@@ -26,7 +26,7 @@ Hello World! This extension pack is a good start for those just beginning with V
 
 ---
 
-### Some notes:
+### Notes:
 
 - I don't include any themes (besides material icon) as most themes that I've come into contact with are not great on the eyes for long periods of time.
 
@@ -41,10 +41,10 @@ Hello World! This extension pack is a good start for those just beginning with V
 - Color Manager
   - Manages a color pallet and provides a gui color picker. A lot more stable than the built in color picker.
 - Bracket Pair Colorizer
-  - Colors matching brackets in a unique color. Great when needing to
+  - Colors matching brackets in a unique color.
 - Indent rainbow
   - Colors indentations in unique colors. Really useful for python or lots of nested if's/functions
-- format toggle
+- Format Toggle
   - Toggles formatting on and off. Useful for if a formatter is not working properly on a file
 - Git Graph
   - Shows git history in a gui within VSCode and allows you to click on a commit and look at what was changed within VSCode
