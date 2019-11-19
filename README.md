@@ -84,21 +84,21 @@ Since my pack doesn't include languages since everyone has their own tech stack,
 
 - Java Extension Pack
   
-  - 'nough said. This is the recommended one and for good reason
+  - 'nough said. This is the recommended one and for good reason.
 
 - Javadoc tools
   
-  - Such a life saver when making java projects for class
+  - Such a life saver when making Java projects for class.
 
 ### C/C++
 
 - C/C++
   
-  - Microsoft's extension. Basic necessity
+  - Microsoft's extension. Basic necessity.
 
 - C/C++ Project Generator
   
-  - Ahh, such a time saver
+  - Ahh, such a time saver.
 
 - C/C++ Colorization Upgrade
   
@@ -108,27 +108,27 @@ Since my pack doesn't include languages since everyone has their own tech stack,
 
 - Vue VS Code Extension Pack
   
-  - This should have everything you need (and a little you don't, such as Prettier). I used this while learning Vue
+  - This should have everything you need (and a little you don't, such as Prettier). I used this while learning Vue.
 
 - Vue Peek
   
-  - Not necessary, but good if you need to look into the source code at all
+  - Not necessary, but good if you need to look into the source code at all.
 
 - TSLint Vue
   
-  - Necessary if you're developing Typescript based Vue web components
+  - Necessary if you're developing Typescript based Vue web components.
 
 - TSLint
   
-  - Since you'll probably have to edit some regular Typescript files
+  - Since you'll probably have to edit some regular Typescript files.
 
 - JavaScript (ES6) code snippets
   
-  - Need them snippets
+  - Snippets make everything faster.
 
 - JavaScript Booster
   
-  - Makes refactoring javascript a little bit faster
+  - Makes refactoring JS a little easier.
 
 
 
