@@ -1,6 +1,6 @@
 # David's VSCode Starter Kit
 
-Hello World! This extension pack is a good start for those just beginning with VSCode. Most of the tools within this pack are language agnostic, so as to not clutter up your extensions with useless ones that you might not run into. When you start a project in a given language, it'll likely recommend you the extensions you need to get support, and I wouldn't recommend going too much beyond that anyways as multiple related extensions can conflict with each other.
+Hello World! This extension pack is a good start for those just beginning with VSCode. Most of the tools within this pack are language agnostic, so as to not clutter up your extensions with useless ones that you might not run into. When you start a project in a given language, it'll likely recommend you the extensions you need to get support, and I wouldn't recommend going too much beyond that as multiple related extensions can conflict with each other.
 
 ## Included Extensions
 
@@ -35,6 +35,8 @@ Hello World! This extension pack is a good start for those just beginning with V
 - I didn't include Prettier as it conflicted usually with the built in language formatter.
 
 ---
+
+## What Each Do:
 
 - Comment Anchor
   - Helps generate and highlight comments such as TODO, FIXME, and NOTE. Shows as a panel on the side. Prettier in my opinion than TodoTree or Better-Comments
@@ -71,3 +73,87 @@ Hello World! This extension pack is a good start for those just beginning with V
   - Sorts lines as it says in a variety of ways.
 - Subtle Brackets
   - Underlines matching brackets and parentheses in the editor
+
+---
+
+## Other Recommendations:
+
+Since my pack doesn't include languages since everyone has their own tech stack, I'm going to include some other recommendations at the end here (that you can sync up between your devices with settings sync). Most of these are recommended by default, but just in case they're not, you'll find them useful I imagine.
+
+### Java
+
+- Java Extension Pack
+  
+  - 'nough said. This is the recommended one and for good reason
+
+- Javadoc tools
+  
+  - Such a life saver when making java projects for class
+
+### C/C++
+
+- C/C++
+  
+  - Microsoft's extension. Basic necessity
+
+- C/C++ Project Generator
+  
+  - Ahh, such a time saver
+
+- C/C++ Colorization Upgrade
+  
+  - Upgrades dem colors. 
+
+### Vue
+
+- Vue VS Code Extension Pack
+  
+  - This should have everything you need (and a little you don't, such as Prettier). I used this while learning Vue
+
+- Vue Peek
+  
+  - Not necessary, but good if you need to look into the source code at all
+
+- TSLint Vue
+  
+  - Necessary if you're developing Typescript based Vue web components
+
+- TSLint
+  
+  - Since you'll probably have to edit some regular Typescript files
+
+- JavaScript (ES6) code snippets
+  
+  - Need them snippets
+
+- JavaScript Booster
+  
+  - Makes refactoring javascript a little bit faster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
