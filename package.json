@@ -5,7 +5,7 @@
     "icon": "binders.png",
     "displayName": "David's Starter Kit",
     "description": "Contains extensions recommended to get set up and going at a Hackathon, or to just get VS Code up and running",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.39.0"
     },
