@@ -11,7 +11,6 @@ Hello World! This extension pack is a good start for those just beginning with V
 | Color Manager          | [![Color Manager (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/royaction.color-manager.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=royaction.color-manager)                                       |
 | Format Toggle          | [![Format Toggle (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/tombonnike.vscode-status-bar-format-toggle.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) |
 | Git Graph              | [![Git Graph (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/mhutchie.git-graph.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                                                     |
-| GitHub Pull Requests   | [![GitHub Pull Requests (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/GitHub.vscode-pull-request-github.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)            |
 | Gitignore              | [![Gitignore (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/codezombiech.gitignore.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)                                             |
 | GitLens                | [![GitLens (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                                         |
 | Indent Rainbow         | [![GitLens (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                                                    |
@@ -54,8 +53,6 @@ Hello World! This extension pack is a good start for those just beginning with V
   - Shows git authors of a piece of code within the editor. Also has a dedicated panel. Useful for when needing to see who wrote a particular piece of code and when.
 - GitIgnore
   - Support for gitignore files
-- GitHub Pull Requests
-  - Shows github pull requests within the VSCode gui and allows for acting on them.
 - Intellicode
   - Adds intelligent autocomplete/suggestion to the editor. Made by Microsoft
 - Material Icon Theme
@@ -129,31 +126,3 @@ Since my pack doesn't include languages since everyone has their own tech stack,
 - JavaScript Booster
   
   - Makes refactoring JS a little easier.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

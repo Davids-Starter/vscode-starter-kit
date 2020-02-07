@@ -29,7 +29,6 @@
         "visualstudioexptteam.vscodeintellicode",
         "yzhang.markdown-all-in-one",
         "royaction.color-manager",
-        "codezombiech.gitignore",
-        "github.vscode-pull-request-github"
+        "codezombiech.gitignore"
     ]
 }
