@@ -14,7 +14,9 @@
     ],
     "extensionPack": [
         "christian-kohler.path-intellisense",
+        "codezombiech.gitignore",
         "coenraads.Bracket-Pair-Colorizer-2",
+        "dakara.dakara-foldplus"
         "eamodio.gitlens",
         "exodiusstudios.comment-anchors",
         "ibm.output-colorizer",
@@ -23,12 +25,11 @@
         "PKief.material-icon-theme",
         "rafamel.subtle-brackets",
         "ritwickdey.liveserver",
+        "royaction.color-manager",
         "shan.code-settings-sync",
         "tombonnike.vscode-status-bar-format-toggle",
         "tyriar.sort-lines",
         "visualstudioexptteam.vscodeintellicode",
         "yzhang.markdown-all-in-one",
-        "royaction.color-manager",
-        "codezombiech.gitignore"
     ]
 }
