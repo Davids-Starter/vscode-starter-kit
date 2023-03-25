@@ -2,10 +2,10 @@
     "repository": "https://github.com/dmbeta/vscode-starter-kit",
     "publisher": "DavidBeta",
     "name": "starterpack",
-    "icon": "backpack.png",
+    "icon": "https://raw.githubusercontent.com/Davids-Starter/vscode-starter-kit/develop/backpack.png",
     "displayName": "David's Starter Pack",
     "description": "Contains extensions recommended to get set up and going at a Hackathon, or to just get VS Code up and running",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -15,7 +15,6 @@
     "extensionPack": [
         "christian-kohler.path-intellisense",
         "codezombiech.gitignore",
-        "coenraads.Bracket-Pair-Colorizer-2",
         "dakara.dakara-foldplus",
         "eamodio.gitlens",
         "exodiusstudios.comment-anchors",
@@ -24,11 +23,12 @@
         "oderwat.indent-rainbow",
         "PKief.material-icon-theme",
         "rafamel.subtle-brackets",
+        "randomfractalsinc.vscode-data-preview",
         "ritwickdey.liveserver",
         "royaction.color-manager",
-        "shan.code-settings-sync",
         "tombonnike.vscode-status-bar-format-toggle",
         "tyriar.sort-lines",
+        "usernamehw.errorlens",
         "visualstudioexptteam.vscodeintellicode",
         "yzhang.markdown-all-in-one"
     ]
