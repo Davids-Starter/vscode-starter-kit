@@ -13,4 +13,4 @@ jobs:
         with:
           args: "publish -p $VS_MARKETPLACE_TOKEN"
         env:
-          VSCE_TOKEN: ${{ secrets.VS_MARKETPLACE_TOKEN }}
+          VS_MARKETPLACE_TOKEN: ${{ secrets.VS_MARKETPLACE_TOKEN }}
