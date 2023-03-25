@@ -4,22 +4,22 @@ Hello World! This extension pack is a good start for those just beginning with V
 
 ## Included Extensions
 
-| Extension             | Link                                                                                                                                                                                                                                                                                                           |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Color Manager         | [![Color Manager (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/royaction.color-manager.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=royaction.color-manager)                                       |
-| Comment Anchor        | [![Comment Anchor (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/exodiusstudios.comment-anchors.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=exodiusstudios.comment-anchors)                        |
-| Fold Plus             | [![Fold Plus (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/dakara.dakara-foldplus.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus)                                         |
-| Format Toggle         | [![Format Toggle (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/tombonnike.vscode-status-bar-format-toggle.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) |
-| Git Graph             | [![Git Graph (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/mhutchie.git-graph.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                                                     |
-| Gitignore             | [![Gitignore (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/codezombiech.gitignore.svg?color=blue&style=?style=for-the-badge&logo=visual-studi)](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)                                             |
-| Indent Rainbow        | [![GitLens (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                                                    |
-| IntelliCode           | [![IntelliCode (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/VisualStudioExptTeam.vscodeintellicode.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)       |
-| Markdown All In One   | [![Markdown All In One (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/yzhang.markdown-all-in-one.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)                       |
-| Material Icon Theme   | [![Material Icon Theme (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/PKief.material-icon-theme.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                         |
-| Output Colorizer      | [![Output Colorizer (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/IBM.output-colorizer.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)                                      |
-| Path Intellisense     | [![Path Intellisense (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/christian-kohler.path-intellisense.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)         |
-| Sort Lines            | [![Sort Lines (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/tyriar.sort-lines.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=tyriar.sort-lines)                                                  |
-| Subtle Match Brackets | [![Subtle Match Brackets (VSCode extension) version badge](https://vsmarketplacebadge.apphb.com/version-short/rafamel.subtle-brackets.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-co)](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)                           |
+| Extension             | Link                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| Color Manager         | https://marketplace.visualstudio.com/items?itemName=royaction.color-manager                    |
+| Comment Anchor        | https://marketplace.visualstudio.com/items?itemName=exodiusstudios.comment-anchors             |
+| Fold Plus             | https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus                     |
+| Format Toggle         | https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle |
+| Git Graph             | https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph                         |
+| Gitignore             | https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore                     |
+| Indent Rainbow        | https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow                     |
+| IntelliCode           | https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode     |
+| Markdown All In One   | https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one                 |
+| Material Icon Theme   | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme                  |
+| Output Colorizer      | https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer                       |
+| Path Intellisense     | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense         |
+| Sort Lines            | https://marketplace.visualstudio.com/items?itemName=tyriar.sort-lines                          |
+| Subtle Match Brackets | https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets                    |
 
 ---
 
