@@ -6,20 +6,23 @@ Hello World! This extension pack is a good start for those just beginning with V
 
 | Extension             | Link                                                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------- |
-| Color Manager         | https://marketplace.visualstudio.com/items?itemName=royaction.color-manager                    |
-| Comment Anchor        | https://marketplace.visualstudio.com/items?itemName=exodiusstudios.comment-anchors             |
-| Fold Plus             | https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus                     |
-| Format Toggle         | https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle |
-| Git Graph             | https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph                         |
+| Path Intellisense     | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense         |
 | Gitignore             | https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore                     |
+| Fold Plus             | https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus                     |
+| Comment Anchors       | https://marketplace.visualstudio.com/items?itemName=exodiusstudios.comment-anchors             |
+| Output Colorizer      | https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer                       |
+| Git Graph             | https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph                         |
 | Indent Rainbow        | https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow                     |
+| Material Icon Theme   | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme                  |
+| Subtle Match Brackets | https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets                    |
+| Data Table Render     | https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table        |
+| Live Server           | https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer                      |
+| Color Manager         | https://marketplace.visualstudio.com/items?itemName=royaction.color-manager                    |
+| Format Toggle         | https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle |
+| Sort Lines            | https://marketplace.visualstudio.com/items?itemName=tyriar.sort-lines                          |
+| Error Lens            |                                                                                                |
 | IntelliCode           | https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode     |
 | Markdown All In One   | https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one                 |
-| Material Icon Theme   | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme                  |
-| Output Colorizer      | https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer                       |
-| Path Intellisense     | https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense         |
-| Sort Lines            | https://marketplace.visualstudio.com/items?itemName=tyriar.sort-lines                          |
-| Subtle Match Brackets | https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets                    |
 
 ---
 
