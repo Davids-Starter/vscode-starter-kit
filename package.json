@@ -32,7 +32,7 @@
         "yzhang.markdown-all-in-one"
     ],
     "devDependencies": {
-        "@vscode/vsce": "^2.18.0"
+        "@vscode/vsce": "^2.19.0"
     },
     "scripts": {
         "deploy": "vsce publish"
