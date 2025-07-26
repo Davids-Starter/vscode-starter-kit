@@ -8,17 +8,16 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Install Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: 16.x
+        node-version: 22.x
     - run: npm install
     - name: Publish
-      if: matrix.os == 'ubuntu-latest'
-      run: npm run deploy
+      run: npx vsce publish
       env:
         VSCE_PAT: ${{ secrets.VS_MARKETPLACE_TOKEN }}
