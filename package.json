@@ -1,16 +1,25 @@
 {
     "repository": "https://github.com/dmbeta/vscode-starter-kit",
+    "homepage": "https://github.com/dmbeta/vscode-starter-kit",
+    "license": "MIT",
     "publisher": "DavidBeta",
     "name": "starterpack",
     "icon": "backpack.png",
     "displayName": "David's Starter Pack",
-    "description": "Contains extensions recommended to get set up and going at a Hackathon, or to just get VS Code up and running",
-    "version": "0.3.1",
+    "description": "A minimal but useful list of extensions to get you up and running right away.",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.39.0"
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "starter",
+        "pack",
+        "davidbeta",
+        "useful",
+        "extensions"
     ],
     "extensionPack": [
         "christian-kohler.path-intellisense",
@@ -32,7 +41,7 @@
         "yzhang.markdown-all-in-one"
     ],
     "devDependencies": {
-        "@vscode/vsce": "^2.18.0"
+        "@vscode/vsce": "^3.6.0"
     },
     "scripts": {
         "deploy": "vsce publish"
