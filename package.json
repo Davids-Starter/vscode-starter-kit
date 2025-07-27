@@ -7,7 +7,7 @@
     "icon": "backpack.png",
     "displayName": "David's Starter Pack",
     "description": "A minimal but useful list of extensions to get you up and running right away.",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "engines": {
         "vscode": "^1.39.0"
     },
