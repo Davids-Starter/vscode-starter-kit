@@ -7,7 +7,7 @@
     "icon": "backpack.png",
     "displayName": "David's Starter Pack",
     "description": "A minimal but useful list of extensions to get you up and running right away.",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -25,12 +25,13 @@
         "christian-kohler.path-intellisense",
         "codezombiech.gitignore",
         "dakara.dakara-foldplus",
+        "donjayamanne.githistory",
         "exodiusstudios.comment-anchors",
+        "Gruntfuggly.todo-tree",
         "ibm.output-colorizer",
         "mhutchie.git-graph",
         "oderwat.indent-rainbow",
         "PKief.material-icon-theme",
-        "rafamel.subtle-brackets",
         "RandomFractalsInc.vscode-data-table",
         "ritwickdey.liveserver",
         "royaction.color-manager",
